@@ -57,6 +57,16 @@ cd facebook-cracking
 
 
 
+python2 mazo.pyc
+
+
+
+
+
+
+
+
+
 
 username : mazo
 
